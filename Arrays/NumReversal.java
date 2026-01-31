@@ -8,10 +8,6 @@ public class reversal {
 
 public static void main(String[ args]) {
     int n = 567;
-    // int arr[] = new int[n]; 
-    // for(int i = 0 ;i < n ; i++) {
-    //     arr[i] = sc.nextInt();
-    // }
     System.out.println(Intvervse(n));
 }
 }
